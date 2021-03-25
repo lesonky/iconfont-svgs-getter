@@ -1,0 +1,20 @@
+{
+  "name": "@webeye/iconfont-svgs-getter",
+  "version": "1.0.1",
+  "description": "A cli tool to get iconfont svg files from `iconfont.js`",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lesonky/iconfont-svgs-getter"
+  },
+  "bin": {
+    "iconfont-getter": "src/index.js"
+  },
+  "author": "lesonky",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "commander": "^7.2.0",
+    "fs-extra": "^9.1.0",
+    "lodash.kebabcase": "^4.1.1"
+  }
+}
