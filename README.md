@@ -2,7 +2,7 @@
 # How to use
 ```bash
 # 安装
-npm install @webeye/iconfont-svgs-getter -g
+npm install @njshaoshao/iconfont-svgs-getter -g
 
 # 使用
 iconfont-getter -u http://at.alicdn.com/t/font_1166492_9wf3vffws5h.js -o ~/test

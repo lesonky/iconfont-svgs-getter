@@ -1,5 +1,5 @@
 {
-  "name": "@webeye/iconfont-svgs-getter",
+  "name": "@njshaoshao/iconfont-svgs-getter",
   "version": "1.0.1",
   "description": "A cli tool to get iconfont svg files from `iconfont.js`",
   "repository": {
@@ -16,5 +16,8 @@
     "commander": "^7.2.0",
     "fs-extra": "^9.1.0",
     "lodash.kebabcase": "^4.1.1"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
